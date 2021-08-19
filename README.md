@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 # Latest Medium articles
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Compose: building a generic grid canvas](https://patxi.medium.com/jetpack-compose-building-a-generic-grid-canvas-557da35493fe?source=rss-5b1f692a180a------2)
+- [Mimicking IntelliJ IDEA’s splash screen with Jetpack Compose](https://patxi.medium.com/mimicking-intellij-idea-splash-screen-with-jetpack-compose-9cfbaebbe34a?source=rss-5b1f692a180a------2)
+- [Remembering the State in Jetpack Compose](https://patxi.medium.com/remembering-the-state-in-jetpack-compose-e97928ecff68?source=rss-5b1f692a180a------2)
+- [Road to Android UI tests](https://patxi.medium.com/road-to-android-ui-tests-5d2b180f3eca?source=rss-5b1f692a180a------2)
+- [Sealed classes + RecyclerView with headers = ❤️](https://itnext.io/sealed-classes-recyclerview-with-headers-%EF%B8%8F-14b87d41deb6?source=rss-5b1f692a180a------2)
 <!-- BLOG-POST-LIST:END -->
